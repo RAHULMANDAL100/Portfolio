@@ -1,2 +1,2 @@
-# Porifolio
+# Portfolio
 new repo
